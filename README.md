@@ -3,7 +3,7 @@
 Welcome! This is a shared workspace for the four candidates in UTA's Sustainability cluster hire to prepare our Day 1 group presentation.
 
 **Interview date:** March 26, 2026
-**Exercise:** 2 hours to prepare together, then present as a group
+**Exercise:** Collaborative group preparation and presentation planning
 **Prompt:** How would we build a "spire of excellence" in Environmental Economics, Social and Cultural Sustainability, Sustainable Design, and Environmental Planning?
 
 ---
@@ -38,7 +38,7 @@ Our draft presentation plan covering:
 - Texas GLO, TWDB, TxDOT, and TCEQ programs
 
 ### [Process and Prompt](process_and_prompt.md)
-The exact interview prompt and exercise structure from the provost's office, plus a suggested timeline for the 2-hour build session.
+The exact interview prompt and exercise structure from the provost's office, plus a suggested planning workflow.
 
 ---
 
@@ -46,9 +46,9 @@ The exact interview prompt and exercise structure from the provost's office, plu
 
 **Before the March 12 call:** Skim the cluster plan and grant list so we can discuss high-level framing.
 
-**Before March 26:** Read all four documents so we can hit the ground running in the 2-hour build.
+**Before March 26:** Read all four documents so we can hit the ground running in the build session.
 
-**On March 26:** I'll bring printed copies of the cluster plan and grant list. We'll use the first 10 minutes to agree on framing and structure, then build slides together.
+**On March 26:** I'll bring printed copies of the cluster plan and grant list. We'll use the opening segment to agree on framing and structure, then build slides together.
 
 ---
 

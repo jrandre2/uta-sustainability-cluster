@@ -1,9 +1,9 @@
 # Synergies for Sustainability Solutions: Cluster Plan
 
-_Comprehensive presentation plan for the Day-1 two-hour collaborative exercise_
+_Comprehensive presentation plan for the March 26 group exercise_
 _Prepared by Jesse Andrews, March 2026_
 
-**Purpose:** This document is Andrews' preparation for the March 26 group exercise. Bring this into the room as a working draft to propose to the team during the first 10 minutes of framing. The other candidates will not have seen this — it's a starting point to accelerate the 2-hour build.
+**Purpose:** This document is Andrews' preparation for the March 26 group exercise. Bring this into the room as a working draft to propose to the team. The other candidates will not have seen this — it's a starting point to accelerate discussion.
 
 ---
 
@@ -13,7 +13,7 @@ _Prepared by Jesse Andrews, March 2026_
 
 ---
 
-## I. Shared Framing: What "Spire of Excellence" Means (2–3 min)
+## I. Shared Framing: What "Spire of Excellence" Means
 
 ### The Pitch
 
@@ -36,7 +36,7 @@ A spire of excellence is not four faculty doing parallel work. It is an **integr
 
 ---
 
-## II. Binding Layer + Early Pilot Projects (5 min)
+## II. Binding Layer + Early Pilot Projects
 
 ### The sequencing shift
 
@@ -125,7 +125,7 @@ To keep Year 1 realistic, we begin with **two pilot projects** with two co-leads
 
 ---
 
-## III. Funding Strategy (3 min)
+## III. Funding Strategy
 
 ### Three-Phase Pipeline
 
@@ -193,7 +193,7 @@ To keep Year 1 realistic, we begin with **two pilot projects** with two co-leads
 
 ---
 
-## IV. PhD Pipeline Design (3 min)
+## IV. PhD Pipeline Design
 
 ### Structure: The Sustainability Doctoral Fellows Program
 
@@ -238,7 +238,7 @@ This seminar exposes every student to all four methodological traditions. An eco
 **2. Dissertation Studio (Biweekly, Spring semester)**
 
 A workshop format where students present dissertation work-in-progress to the full cluster (all faculty + all students). Modeled on architecture and design studio critique:
-- Each student presents for 15 minutes
+- Each student presents dissertation work at regular intervals in Dissertation Studio
 - Feedback from faculty and students across all four disciplines
 - Focus on how each dissertation connects to the pilot projects and cluster cores
 - Students learn to communicate across disciplinary boundaries
@@ -284,7 +284,7 @@ This **cross-advising model** ensures every dissertation has an interdisciplinar
 
 ---
 
-## V. Pedagogy and Student Integration (3 min)
+## V. Pedagogy and Student Integration
 
 ### Undergraduate Impact
 
@@ -330,7 +330,7 @@ The cluster establishes standing partnerships with Texas community organizations
 
 ---
 
-## VI. 18-Month Rollout Roadmap (2 min)
+## VI. 18-Month Rollout Roadmap
 
 ### Semester 1: Fall 2026 (Arrival)
 
@@ -386,13 +386,13 @@ The cluster establishes standing partnerships with Texas community organizations
 
 ---
 
-## VII. Cluster Governance (1 min)
+## VII. Cluster Governance
 
 ### Structure
 
 | Element | Detail |
 |---------|--------|
-| **Meeting cadence** | Biweekly cluster meeting (1 hour); monthly with PhD students (Dissertation Studio in spring) |
+| **Meeting cadence** | Biweekly cluster meeting; monthly with PhD students (Dissertation Studio in spring) |
 | **Coordination lead** | Rotate annually; Year 1: Andrews (as methods/infrastructure anchor) |
 | **Decision-making** | Consensus on grants and student admissions; individual autonomy on publications and teaching |
 | **Shared resources** | GIS data infrastructure, community partner contacts, graduate student travel fund |
@@ -410,21 +410,19 @@ The cluster establishes standing partnerships with Texas community organizations
 
 ## VIII. Presentation Speaker Assignments (suggested)
 
-For the 18-minute presentation, each candidate speaks for ~4.5 minutes:
+Suggested speaking flow:
 
-| Section | Speaker | Time |
-|---------|---------|------|
-| 1. Framing: "Spire of Excellence" + Texas as natural laboratory | Andrews | 2 min |
-| 2. Pilot Project A: Equitable Environmental Infrastructure + Community Resilience | Bray + Marable | 4 min (2 each) |
-| 3. Pilot Project B: Land Use, Conservation, and Climate-Resilient Development | Andrews + Shost | 3 min (1.5 each) |
-| 4. Researcher Spotlights (Bray, Marable, Andrews, Shost) | As needed | 2 min |
-| 5. Funding strategy: 3-phase pipeline + agency map | Andrews + Bray | 2.5 min |
-| 6. PhD pipeline + pedagogy | Bray + Marable | 3 min |
-| 7. 18-month roadmap + governance + close | Shost | 2 min |
+| Section | Speaker |
+|---------|---------|
+| 1. Framing: "Spire of Excellence" + Texas as natural laboratory | Andrews |
+| 2. Pilot Project A: Equitable Environmental Infrastructure + Community Resilience | Bray + Marable |
+| 3. Pilot Project B: Land Use, Conservation, and Climate-Resilient Development | Andrews + Shost |
+| 4. Researcher Spotlights (Bray, Marable, Andrews, Shost) | As needed |
+| 5. Funding strategy: 3-phase pipeline + agency map | Andrews + Bray |
+| 6. PhD pipeline + pedagogy | Bray + Marable |
+| 7. 18-month roadmap + governance + close | Shost |
 
-**Total: ~18 minutes**
-
-**Note on speaking time:** This format intentionally alternates co-led project coverage and explicit researcher spotlights to show collaboration across themes and methods.
+**Note on speaking flow:** This format intentionally alternates co-led project coverage and explicit researcher spotlights to show collaboration across themes and methods.
 
 ---
 
@@ -436,9 +434,9 @@ On March 26, bring printed copies of:
 2. **Grant opportunities** (grant_opportunities.md) — the specific active grants with deadlines and amounts
 3. **Peer candidate dossiers** (peer_candidate_dossiers.md) — know each person's strengths so you can assign roles quickly
 
-**Strategy for the first 10 minutes:**
-1. Introduce yourself, briefly state your research (30 seconds)
-2. Propose the "Texas as natural laboratory" framing — it's neutral and gives everyone a hook
+**Opening sequence:**
+1. Introduce yourself and state your research
+2. Propose the "Texas as natural laboratory" framing, which gives everyone a shared entry point
 3. Introduce the Binding Layer (core structure), then walk through two pilot projects and co-leads
 4. Offer the grant list — no one else will have done this homework
 5. Propose the speaker rotation

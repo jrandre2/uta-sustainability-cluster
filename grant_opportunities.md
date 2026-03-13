@@ -214,7 +214,7 @@ The TREES track is purpose-built for a cluster like ours. It rewards integration
 
 ## How to Present This in the Day-1 Exercise
 
-**Recommended framing for the "funding strategy" slide (3 minutes):**
+**Recommended framing for the "funding strategy" slide:**
 
 ### Immediate (Year 1): Seed and Pilot
 - **NSF DRMS** ($100–400K) — our first cluster proposal, submitted August 2026; also supports RAPID grants for post-disaster data
