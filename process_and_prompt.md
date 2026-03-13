@@ -18,8 +18,8 @@
 ## Draft response plan (recommended structure for slides)
 1. **Shared diagnosis (2–3 mins)**
    - What “spire of excellence” means for this cluster.
-2. **Four-track research agenda (5 mins)**
-   - Environmental economics, equity/sustainability, design/planning, resilience systems.
+2. **Binding layer + two-pilot agenda (5 mins)**
+   - Core structure (data, community, student training, operations) plus two co-led pilot projects.
 3. **PhD pipeline design (3 mins)**
    - Joint advising model, mentor matching, cross-college dissertation studios.
 4. **Funding strategy (3 mins)**
@@ -33,7 +33,7 @@
 
 ## Team preparation checklist for the 2-hour build
 - 10 min: agree on one-page framing and shared goals.
-- 35 min: choose 3–4 themes and assign research evidence/examples.
+- 35 min: define the binding layer, assign pilot leads, and map each pilot to the four program pillars.
 - 35 min: define funding map + funding lead roles.
 - 25 min: integrate PhD mentorship and teaching model.
 - 20 min: build shared narrative and slide skeleton.

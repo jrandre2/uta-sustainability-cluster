@@ -15,7 +15,8 @@ Click any link below to read the document directly on this page — no downloads
 ### [Cluster Plan](cluster_plan.md)
 Our draft presentation plan covering:
 - A proposed framing ("Texas as a natural laboratory for sustainability science")
-- 4 integrated research themes — one led by each of us
+- A binding layer (data, community, student training, and optional administrative core)
+- 2 pilot projects with co-leads, aligned to the four hiring pillars
 - A 3-phase funding pipeline ($7.5–15M over 5 years)
 - A PhD pipeline design (8 doctoral students across the cluster)
 - Pedagogy and undergraduate pathways
