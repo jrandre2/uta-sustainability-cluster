@@ -1,9 +1,9 @@
 # Synergies for Sustainability Solutions: Cluster Plan
 
-_Draft presentation plan for the Day-1 two-hour collaborative exercise_
-_March 2026_
+_Comprehensive presentation plan for the Day-1 two-hour collaborative exercise_
+_Prepared by Jesse Andrews, March 2026_
 
-**Purpose:** A working draft for the March 26 group exercise. This is a starting point for the team to build on during the 2-hour prep session — not a final plan. All sections are open for discussion and revision.
+**Purpose:** This document is Andrews' preparation for the March 26 group exercise. Bring this into the room as a working draft to propose to the team during the first 10 minutes of framing. The other candidates will not have seen this — it's a starting point to accelerate the 2-hour build.
 
 ---
 
@@ -36,120 +36,92 @@ A spire of excellence is not four faculty doing parallel work. It is an **integr
 
 ---
 
-## II. Research Agenda: Four Integrated Themes (5 min)
+## II. Binding Layer + Early Pilot Projects (5 min)
 
-### Organizing Principle
+### The sequencing shift
 
-Rather than four separate research programs, we propose **four interlocking research themes** — each led by one cluster member but requiring contributions from the others. A shared Texas study region and shared data infrastructure binds them together.
+We move the infrastructure layer up front to show that the cluster is a shared system, not just four parallel research agendas.
 
----
+### Core 1: Data Core (Lead: Andrews)
 
-### Theme 1: The Economics of Conservation and Land Use
-**Lead: Garrett Shost**
+**Mission:** Build and govern a shared Texas-focused research infrastructure.
 
-**Core question:** How do market-based instruments (conservation easements, transferable tax credits, zoning policies) shape land use outcomes, and what are the equity implications?
+- Texas parcel and property records, tax history, housing market data
+- GIS base layers (flood zones, zoning, infrastructure, environmental hazard maps)
+- Community and partner-shared qualitative datasets
+- Reproducible pipelines for cleaning, versioning, and permissions
 
-**Research streams:**
-- Conservation easement effects on housing prices and development in Texas metro-adjacent counties
-- Tax credit market design for equitable conservation participation
-- Cost-benefit analysis of green infrastructure vs. gray infrastructure for flood mitigation
-- Land use policy interactions between conservation, housing supply, and affordability
+**Membership rule:** All faculty are core members, and students participate in at least one project per semester.
 
-**Methods:** Causal identification using large administrative datasets (property records, tax data), quasi-experimental designs, spatial econometrics
+### Core 2: Community Engagement Core (Lead: Bray)
 
-**Texas application:** DFW exurban growth corridors where conservation land, new development, and flood zones collide. Edwards Aquifer conservation districts. Gulf Coast land use transitions post-Harvey.
+**Mission:** Anchor the research in Texas communities and produce research outputs that are interpretable outside academia.
 
-**Cluster connections:**
-- Andrews provides GIS mapping and spatial analysis of land use change
-- Bray contributes equity and environmental justice assessment of who benefits from conservation
-- Marable models downstream economic impacts of land use decisions on water quality and infrastructure
+- Maintain community/government/NGO relationships
+- Co-design with partners and support culturally appropriate methods
+- Translate findings into briefings, workshops, and practitioner-facing reports
+- Build a reflexive evaluation framework for continuous learning
 
----
+**Membership rule:** All faculty actively participate; all students rotate through engagement activity in Year 1.
 
-### Theme 2: Environmental Infrastructure and Public Welfare
-**Lead: Trenton Marable**
+### Core 3: Student Training Core (Lead: Marable)
 
-**Core question:** How do environmental infrastructure systems (water, energy, transportation) affect consumer behavior, public welfare, and community resilience — and how should policy respond?
+**Mission:** Create the cross-college doctoral pathway and a shared student workload model.
 
-**Research streams:**
-- Consumer and business response to water quality violations in Texas municipal systems
-- EV charging infrastructure equity: access, pricing, and adoption in sprawling Texas metros
-- Economic costs of infrastructure failure during extreme weather (Winter Storm Uri, Hurricane Harvey)
-- Public notification effectiveness for environmental hazards
+- Sustainability Methods Seminar + Dissertation Studio
+- Shared summer intensive and RA rotations
+- Co-advising, conference mentoring, and publication prep
+- Shared graduate assistantship opportunities tied to pilot projects
 
-**Methods:** Revealed-preference estimation, cellphone mobility data, quasi-experimental identification, welfare analysis, large-scale administrative data linkage
+**Membership rule:** At least one core activity and one faculty mentor per student every term.
 
-**Texas application:** Texas water systems (aging infrastructure, contamination events in small systems). Texas EV charging network buildout along I-35, I-10, and I-20 corridors. DFW transit deserts and transportation equity.
+### Core 4: Administrative Core (Year 2–3, optional)
 
-**Cluster connections:**
-- Andrews provides spatial analysis of infrastructure gaps, building-level vulnerability mapping, and Geo-AI monitoring tools
-- Bray contributes community-level qualitative data on how infrastructure failures are experienced, especially in marginalized communities
-- Shost models the market incentives and policy instruments that drive infrastructure investment decisions
+**Purpose:** Keep the portfolio coherent as it scales.
 
----
+- Shared meeting rhythm, grant calendar, and internal reporting
+- Workload and leadership rotation
+- Cross-unit coordination (departments, UTA offices, partners)
 
-### Theme 3: Environmental Justice, Community Resilience, and Cultural Sustainability
-**Lead: Laura Bray**
+### Early Research Portfolio: Two Pilot Projects (Years 1–3)
 
-**Core question:** How do environmental inequalities arise through institutional, spatial, and cultural processes — and how can community-engaged research inform more just sustainability transitions?
+To keep Year 1 realistic, we begin with **two pilot projects** with two co-leads each, while retaining all four thematic pillars across the portfolio.
 
-**Research streams:**
-- Post-disaster environmental contamination and its unequal distribution across race and class (expanding SHIFT framework to Texas flood communities)
-- Climate adaptation in Tribal and marginalized communities (extending USGS South Central CASC work into Texas)
-- Water justice at the rural-urban interface: competing claims on Texas water resources
-- Young workers, climate change, and the pursuit of meaningful sustainable employment
-- Community-based participatory research methods for sustainability science
+#### Pilot Project A: Equitable Environmental Infrastructure and Community Resilience
+**Co-leads:** Bray + Marable
 
-**Methods:** Qualitative and mixed-methods research, ethnography, participatory action research, deliberative forums, community specialist model, documentary methods
+**Core question:** How can water, mobility, and hazard-management systems support resilience without reproducing inequity?
 
-**Texas application:** Houston Ship Channel fenceline communities. DFW food desert geography. Texas Tribal communities and climate adaptation. Rural Texas petrochemical and agricultural exposure. Colonias along the Texas-Mexico border.
+**Pillars covered:**
+- Social and Cultural Sustainability
+- Environmental Economics
+- Environmental Planning
 
-**Cluster connections:**
-- Andrews maps and visualizes environmental injustice spatially (GIS overlays of hazard exposure, demographic data, infrastructure access)
-- Marable provides economic welfare analysis of environmental justice outcomes (revenue losses, health costs, property impacts)
-- Shost models policy instruments that could redistribute environmental benefits more equitably
+**Core contributions:**
+- Data Core: water quality event data, mobility/disruption patterns, infrastructure maps
+- Community Engagement Core: partner advisory groups and policy translation
+- Student Training Core: student teams produce a community-facing policy memo + one empirical assignment
 
----
+#### Pilot Project B: Land Use, Conservation, and Climate-Resilient Development
+**Co-leads:** Andrews + Shost
 
-### Theme 4: Spatial Analysis, Digital Methods, and Environmental Planning
-**Lead: Jesse Andrews**
+**Core question:** Which combinations of conservation finance, design, and planning policy can reduce climate risk while improving equity and affordability?
 
-**Core question:** How can spatial analysis, Geo-AI, and digital methods improve environmental planning, flood risk management, and sustainability decision-making at the parcel, neighborhood, and regional scales?
+**Pillars covered:**
+- Environmental Economics
+- Sustainable Design
+- Environmental Planning
 
-**Research streams:**
-- Building-level flood risk assessment using Geo-AI imagery change detection (extending Nebraska work to DFW/Gulf Coast)
-- Parcel-level analysis of floodplain ownership: who owns the risk, and how do organizational forms shape vulnerability?
-- Smart flood monitoring and rural broadband-enabled resilience systems
-- Historical GIS analysis of land use change, environmental inequality, and urban development in Texas
-- Digital humanities approaches to sustainability: mapping environmental histories, community narratives, and policy evolution
-- How major floods reshape urban housing markets: liquidity, mobility, and risk reallocation
+**Core contributions:**
+- Data Core: parcel datasets, easement and land-use data, floodplain exposure maps
+- Community Engagement Core: community design workshops and outcome briefings
+- Student Training Core: one RA-backed pilot methods component (valuation, spatial analysis, or policy simulation)
 
-**Methods:** GIS/spatial analysis, machine learning, computer vision, Geo-AI, geographically weighted regression, spatial statistics, historical GIS, digital humanities methods, Python/R
+**Why two pilots first?**
 
-**Texas application:** Trinity River watershed flood risk in DFW. Mobile home park vulnerability in Texas metros. Harris County post-Harvey housing market dynamics. Historical land use transformation in the DFW Metroplex. Rural Texas broadband gaps and disaster communication.
-
-**Cluster connections:**
-- Shost provides land economics models that complement spatial land use analysis
-- Marable contributes infrastructure economics data (water systems, EV networks) for spatial integration
-- Bray supplies community-level qualitative data and environmental justice frameworks that ground the spatial analysis in lived experience
-
----
-
-### The Binding Layer: Shared Data Infrastructure
-
-All four themes converge on a **shared, place-based data infrastructure for Texas sustainability research:**
-
-| Data Asset | Contributors | Use Across Themes |
-|-----------|-------------|-------------------|
-| Texas parcel-level property database (tax records, ownership, land use) | Andrews + Shost | Flood risk, conservation easements, housing markets, land use change |
-| Cellphone mobility data (foot traffic, displacement) | Marable | Water violation response, post-disaster displacement, EV charging behavior |
-| GIS base layers (flood zones, demographics, infrastructure, zoning) | Andrews | All four themes — the shared spatial backbone |
-| Community qualitative data (interviews, focus groups, oral histories) | Bray | Environmental justice, climate adaptation, community resilience |
-| Historical land use and environmental records | Andrews | Long-term change analysis, environmental history, planning context |
-| Texas water system quality and compliance data | Marable + Bray | Water quality economics, water justice, infrastructure planning |
-| Conservation easement and land trust records | Shost | Conservation economics, land use policy |
-
-**This shared infrastructure is what makes us a cluster, not four adjacent hires.** Every grant proposal we write will reference it. Every PhD student we train will contribute to it.
+- Each can pursue **pilot pathways** (internal/state/regional) with manageable scope.
+- Each can scale into a larger project if early findings are promising.
+- After 3–5 years, the two pilots feed a joint center-style proposal if they demonstrate shared scientific and community value.
 
 ---
 
@@ -268,14 +240,14 @@ This seminar exposes every student to all four methodological traditions. An eco
 A workshop format where students present dissertation work-in-progress to the full cluster (all faculty + all students). Modeled on architecture and design studio critique:
 - Each student presents for 15 minutes
 - Feedback from faculty and students across all four disciplines
-- Focus on how each dissertation connects to the cluster's shared research themes
+- Focus on how each dissertation connects to the pilot projects and cluster cores
 - Students learn to communicate across disciplinary boundaries
 
 **3. Summer Research Intensives**
 
 Each summer, cluster students participate in a 2-week intensive fieldwork or data collection period in the shared Texas study region. Activities include:
 - Joint site visits to study communities (flood zones, fenceline neighborhoods, conservation areas, water systems)
-- Collaborative data collection that feeds all four research themes
+- Collaborative data collection that feeds both pilot projects
 - Cross-training workshops (e.g., economics students learn GIS field methods; geography students learn survey design)
 
 **4. Conference Pipeline**
@@ -421,7 +393,7 @@ The cluster establishes standing partnerships with Texas community organizations
 | Element | Detail |
 |---------|--------|
 | **Meeting cadence** | Biweekly cluster meeting (1 hour); monthly with PhD students (Dissertation Studio in spring) |
-| **Coordination lead** | Rotate annually (to be decided as a group) |
+| **Coordination lead** | Rotate annually; Year 1: Andrews (as methods/infrastructure anchor) |
 | **Decision-making** | Consensus on grants and student admissions; individual autonomy on publications and teaching |
 | **Shared resources** | GIS data infrastructure, community partner contacts, graduate student travel fund |
 | **Accountability** | Annual self-assessment against 18-month metrics; report to Provost's office per RISE 100 expectations |
@@ -443,13 +415,32 @@ For the 18-minute presentation, each candidate speaks for ~4.5 minutes:
 | Section | Speaker | Time |
 |---------|---------|------|
 | 1. Framing: "Spire of Excellence" + Texas as natural laboratory | Andrews | 2 min |
-| 2. Research Theme 1: Conservation & Land Use + Theme 2: Infrastructure & Welfare | Shost + Marable | 4 min (2 each) |
-| 3. Research Theme 3: Environmental Justice & Cultural Sustainability | Bray | 2.5 min |
-| 4. Research Theme 4: Spatial Analysis & Environmental Planning | Andrews | 2 min |
+| 2. Pilot Project A: Equitable Environmental Infrastructure + Community Resilience | Bray + Marable | 4 min (2 each) |
+| 3. Pilot Project B: Land Use, Conservation, and Climate-Resilient Development | Andrews + Shost | 3 min (1.5 each) |
+| 4. Researcher Spotlights (Bray, Marable, Andrews, Shost) | As needed | 2 min |
 | 5. Funding strategy: 3-phase pipeline + agency map | Andrews + Bray | 2.5 min |
 | 6. PhD pipeline + pedagogy | Bray + Marable | 3 min |
 | 7. 18-month roadmap + governance + close | Shost | 2 min |
 
 **Total: ~18 minutes**
 
-**Note:** Speaker assignments are suggestions — we should discuss and adjust during the 2-hour build based on everyone's comfort and preferences.
+**Note on speaking time:** This format intentionally alternates co-led project coverage and explicit researcher spotlights to show collaboration across themes and methods.
+
+---
+
+## IX. What to Bring Into the Room
+
+On March 26, bring printed copies of:
+
+1. **This document** (cluster_plan.md) — your working draft to propose to the team
+2. **Grant opportunities** (grant_opportunities.md) — the specific active grants with deadlines and amounts
+3. **Peer candidate dossiers** (peer_candidate_dossiers.md) — know each person's strengths so you can assign roles quickly
+
+**Strategy for the first 10 minutes:**
+1. Introduce yourself, briefly state your research (30 seconds)
+2. Propose the "Texas as natural laboratory" framing — it's neutral and gives everyone a hook
+3. Introduce the Binding Layer (core structure), then walk through two pilot projects and co-leads
+4. Offer the grant list — no one else will have done this homework
+5. Propose the speaker rotation
+
+**If someone pushes back on the structure, be flexible.** The goal is to demonstrate collaborative leadership, not to win an argument. Let Bray and the economists reshape the themes if they want — the structure will survive adaptation. What matters is that you're the person who came prepared with a plan.
