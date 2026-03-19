@@ -26,16 +26,54 @@ Our draft presentation plan covering:
 
 ### [Grant Opportunities](grant_opportunities.md)
 10 federal grants organized by priority, with:
-- Verification status (all checked March 11, 2026)
+- Verification status (rechecked March 19, 2026)
 - Deadlines and funding amounts
 - Role maps showing who would lead each proposal
 - A quick-reference summary table for the presentation
+
+### [Grant Program Narrative Report](grant_program_narrative_report.md)
+A speaking brief on all of the grant programs named in the Day 1 materials, with:
+- Short narrative explanations of what each program is
+- Clarified status for active, monitor-only, and caution items
+- Public-facing guidance on how to talk about each opportunity
+- Official-source links for deeper follow-up
 
 ### [State and Local Funding](state_local_funding.md)
 10 Texas state, regional, and foundation funding sources, including:
 - Meadows Foundation ($500K–$2.75M, rolling applications)
 - NCTCOG North Texas Center for Mobility Technologies (UTA is already a partner)
 - Texas GLO, TWDB, TxDOT, and TCEQ programs
+
+### [Day 1 Execution Brief](day1_execution_brief.md)
+A room-ready guide to running the collaborative exercise, including:
+- A tight 6-slide structure
+- The first 10 minutes of facilitation
+- Suggested roles, timing, fallback cuts, and room moves
+
+### [Day 1 Slide Deck Outline](day1_slide_deck_outline.md)
+A 10-slide presentation outline with:
+- Slide titles, timing, and lead speakers
+- Core messages and suggested visuals
+- Cut guidance if time gets compressed
+
+### [Expanded Day 1 Deck Outline](day1_slide_deck_outline_expanded.md)
+A 16-slide version that preserves the basic structure while expanding:
+- Funding-source coverage
+- Proposal ownership
+- The 18-month funding and rollout timeline
+
+### [Expanded Day 1 Slide Shell](day1_slide_shell_expanded.md)
+A full slide shell with:
+- Draft on-slide text
+- Speaker notes
+- Handoff language
+- More detailed funding talking points and timeline notes
+
+### [Day 1 Visual Design Guide](day1_visual_design_guide.md)
+A presentation-specific visual system covering:
+- UTA brand integration
+- Spire motif usage
+- Slide layouts, chart patterns, and accessibility notes
 
 ### [Process and Prompt](process_and_prompt.md)
 The exact interview prompt and exercise structure from the provost's office, plus a suggested planning workflow.
@@ -44,11 +82,11 @@ The exact interview prompt and exercise structure from the provost's office, plu
 
 ## How to use this
 
-**Before the March 12 call:** Skim the cluster plan and grant list so we can discuss high-level framing.
+**Before the March 12 call:** Skim the cluster plan, grant list, and execution brief so we can discuss high-level framing.
 
-**Before March 26:** Read all four documents so we can hit the ground running in the build session.
+**Before March 26:** Read the core planning docs, then use the slide outlines and slide shell to accelerate the build session.
 
-**On March 26:** I'll bring printed copies of the cluster plan and grant list. We'll use the opening segment to agree on framing and structure, then build slides together.
+**On March 26:** Bring the cluster plan, grant list, and whichever slide outline you prefer. Use the execution brief for the opening segment, then move into the slide shell and visual guide once roles are set.
 
 ---
 
