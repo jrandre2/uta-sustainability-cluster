@@ -1,9 +1,9 @@
 # Grant Opportunities for the Sustainability Cluster
 
 _Active funding opportunities for the Day-1 collaborative presentation_
-_Compiled March 10, 2026_
+_Updated March 19, 2026_
 
-The Day-1 prompt explicitly asks the cluster to "propose funding opportunities that would be pursued." This document provides ready-to-cite, currently active grants organized by priority.
+The Day-1 prompt explicitly asks the cluster to "propose funding opportunities that would be pursued." This document provides ready-to-cite federal grants and closely related monitor opportunities organized by priority.
 
 ---
 
@@ -12,15 +12,15 @@ The Day-1 prompt explicitly asks the cluster to "propose funding opportunities t
 | Priority | Program | Agency | Amount | Deadline | Status | Best Fit |
 |----------|---------|--------|--------|----------|--------|----------|
 | 1 | DRMS | NSF | $100K–$400K | Aug 18, 2026 | **Confirmed active** | Andrews + Marable + Bray |
-| 2 | Growing Convergence Research (GCR) | NSF | Up to $2.4M | Feb 8, 2027 | **Confirmed active** | All four candidates |
+| 2 | Growing Convergence Research (GCR) | NSF | Phase I to $1.2M; Phase II to $2.4M | Feb 8, 2027 | **Confirmed active** | All four candidates |
 | 3 | AFRI Foundational & Applied Science | USDA-NIFA | Up to $10M | Dec 31, 2026 | **Confirmed active** | Shost + Marable + Andrews |
 | 4 | Environmental Sustainability | NSF-CBET | ~$300K (3 yr) | Rolling | **Confirmed active** | Marable + Shost + Andrews |
 | 5 | NOAA Broad Agency Announcement | NOAA | Varies | Sep 30, 2026 | **Confirmed active** | Andrews + Bray |
-| 6 | Smart and Connected Communities (S&CC) | NSF | Up to $1.5M | ~Sep 2026 | **Confirmed active** (NSF 25-527) | Andrews + Marable + Bray |
-| 7 | HEGS — TREES Track | NSF | $200K–$250K/yr | TBD | **Uncertain** — solicitation under revision | All four candidates |
-| 8 | Collaborative Research Grants | NEH | Up to $250K | ~Fall 2026 | Not currently accepting; fall 2026 plausible | Andrews + Bray |
-| 9 | FEMA BRIC (via local partner) | FEMA | $1–2B pool | TBD | **In legal limbo** — no active NOFO | Andrews + Bray + Shost |
-| 10 | RWJF Health Equity | RWJF | Varies | Periodic | Monitor for calls | Bray + Marable + Andrews |
+| 6 | Smart and Connected Communities (S&CC) | NSF | Up to $1.5M | Prelim Sep 14 / Full Nov 9, 2026 | **Confirmed active** (NSF 25-527) | Andrews + Marable + Bray |
+| 7 | HEGS — TREES Track | NSF | $200K–$250K/yr | TBD | **Monitor** — waiting for new publication | All four candidates |
+| 8 | Collaborative Research Grants | NEH | Up to $250K | Most recent cycle closed Dec 3, 2025 | Not currently accepting | Andrews + Bray |
+| 9 | FEMA BRIC (via local partner) | FEMA | Historically $1–2B/cycle | TBD | **Monitor** — no active NOFO verified | Andrews + Bray + Shost |
+| 10 | RWJF Health Equity | RWJF | Varies | Rotating calls | Monitor active opportunities | Bray + Marable + Andrews |
 
 ---
 
@@ -110,7 +110,7 @@ GCR is NSF's premier program for research that "transcends disciplinary boundari
 _NSF 25-527_
 
 - **Status:** CONFIRMED ACTIVE
-- **Next deadline:** ~September 2026 (recurring)
+- **Next deadline:** Preliminary proposal due September 14, 2026; full proposal target date November 9, 2026 (recurring second-Monday cycle)
 - **Funding:** Planning Grants up to $150K (1 yr); Integrative Research Grants (IRG) up to $1.5M (4 yr)
 - **URL:** nsf.gov/funding/opportunities/smart-and-connected-communities-scc
 
@@ -131,7 +131,7 @@ _NSF 25-527_
 ### NSF Human-Environment and Geographical Sciences (HEGS) — TREES Track
 _NSF 25-507_
 
-- **Status:** ⚠️ UNCERTAIN — NSF lists this solicitation as "Waiting for new publication" as of March 2026. The Feb 2026 solicitation consolidation (NSF plans to halve ~200 solicitations) may affect this program. The previous Aug 1 annual deadline may or may not recur.
+- **Status:** ⚠️ MONITOR — NSF lists this program as "Waiting for new publication" as of March 2026. There are no upcoming due dates on the current program page.
 - **Deadline:** Previously August 1 (recurring annually); **TBD for 2026**
 - **Funding:** $7M total; 15–25 awards; TREES track at $200K–$250K/year
 - **URL:** nsf.gov/funding/opportunities/human-environment-geographical-sciences-hegs
@@ -152,7 +152,7 @@ The TREES track is purpose-built for a cluster like ours. It rewards integration
 
 ### NEH Collaborative Research Grants
 
-- **Status:** Next cycle expected fall 2026 (most recent deadline was December 3, 2025)
+- **Status:** Not currently accepting. The most recent cycle opened September 22, 2025 and closed December 3, 2025
 - **Funding:** Up to $250K
 - **URL:** neh.gov/grants/research/collaborative-research-grants
 
@@ -164,7 +164,7 @@ The TREES track is purpose-built for a cluster like ours. It rewards integration
 
 ### FEMA Building Resilient Infrastructure and Communities (BRIC)
 
-- **Status:** ⚠️ IN LEGAL LIMBO — FEMA terminated the BRIC program in April 2025. A federal court ordered its restoration in December 2025, but as of March 2026 there is no active NOFO and no timeline for when new funding will be available. The program's future depends on ongoing litigation and federal budget decisions.
+- **Status:** ⚠️ MONITOR — FEMA announced the end of BRIC in April 2025, and as of March 2026 I did not verify an active FEMA NOFO for a new BRIC cycle
 - **Funding:** Historically $1–2B per cycle (when active)
 - **URL:** fema.gov/grants/mitigation/building-resilient-infrastructure-communities
 
@@ -178,7 +178,7 @@ The TREES track is purpose-built for a cluster like ours. It rewards integration
 
 ### Robert Wood Johnson Foundation — Health Equity
 
-- **Status:** Periodic calls for proposals
+- **Status:** Monitor active opportunities; RWJF runs rotating calls rather than one standing "health equity" grant
 - **Focus:** Health equity, social determinants, climate and health
 - **URL:** rwjf.org/en/grants/active-funding-opportunities.html
 
@@ -223,17 +223,17 @@ The TREES track is purpose-built for a cluster like ours. It rewards integration
 - **NSF Environmental Sustainability** (~$300K) — individual PI proposals, rolling deadline
 
 ### Near-Term (Years 1–2): Scale
-- **NSF S&CC** (up to $1.5M) — smart community resilience with GIS/AI (NSF 25-527)
-- **NSF GCR** ($2.4M) — "Equitable Environmental Resilience" — our flagship interdisciplinary proposal, built on Year 1 pilot data, February 2027 deadline
-- **NSF HEGS-TREES** ($200–250K/yr) — if solicitation reopens after NSF consolidation, submit immediately
-- **NEH Collaborative Research** ($250K) — historical geography + environmental justice pilot (Andrews + Bray), if fall 2026 cycle opens
+- **NSF S&CC** (preliminary proposal September 14, 2026; full target date November 9, 2026) — smart community resilience with GIS/AI (NSF 25-527)
+- **NSF GCR** (Phase I up to $1.2M; Phase II up to $2.4M) — "Equitable Environmental Resilience" — our flagship interdisciplinary proposal, built on Year 1 pilot data, February 2027 deadline
+- **NSF HEGS-TREES** ($200–250K/yr) — monitor and move quickly if the solicitation reopens
+- **NEH Collaborative Research** ($250K) — historical geography + environmental justice pilot (Andrews + Bray), if NEH opens a new cycle
 
 ### Flagship (Year 2–3): Convergence
 - **NSF GCR Phase II** ($2.4M) — scale the convergence program with Year 1–2 pilot data
 - **NSF CAREER Awards** ($400–500K each) — individual faculty development for Shost and Marable
 
 ### Partnership Grants (Monitor)
-- **FEMA BRIC** via City of Arlington/Tarrant County — if program resumes after legal resolution
+- **FEMA BRIC** via City of Arlington/Tarrant County — only if FEMA revives a comparable mitigation pathway
 - **Kresge CREWS/EJET** when RFPs open — water systems and energy transition
 - **RWJF** — health equity and environmental determinants
 

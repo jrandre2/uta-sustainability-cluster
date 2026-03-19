@@ -137,15 +137,15 @@ To keep Year 1 realistic, we begin with **two pilot projects** with two co-leads
 | NOAA BAA | NOAA | varies | Sep 30, 2026 | **Confirmed** | Andrews + Bray | Flood/climate resilience in Texas Gulf region |
 | Env. Sustainability | NSF-CBET | ~$300K | Rolling | **Confirmed** | Marable or Shost | Individual PI proposals; water quality, conservation |
 | AFRI Foundational | USDA-NIFA | up to $10M | Dec 31, 2026 | **Confirmed** | Shost | Conservation economics, rural resilience, water quality |
-| HEGS-TREES | NSF | $200–250K/yr | TBD | **Uncertain** | Andrews | If solicitation reopens: transdisciplinary pilot on spatial sustainability in Texas |
-| NEH Collaborative | NEH | $250K | ~Fall 2026 | Plausible | Andrews + Bray | Historical geography of environmental justice in Texas |
+| HEGS-TREES | NSF | $200–250K/yr | TBD | **Monitor** | Andrews | Waiting for new publication; pursue only if the program reopens |
+| NEH Collaborative | NEH | $250K | Monitor official page | Monitor | Andrews + Bray | Historical geography of environmental justice in Texas if a new cycle opens |
 
 **State/local supplements in Year 1:**
 
 | Grant | Source | Amount | Deadline | Lead | Purpose |
 |-------|--------|--------|----------|------|---------|
 | Meadows Foundation — Environment | Private (Dallas) | $500K–$2.75M | Rolling | All four | Seed funding for shared data infrastructure and community partnerships |
-| NCTCOG Mobility Technologies (NTCMT) | Regional | up to $1M/yr matching | Rolling (quarterly) | Marable + Andrews | EV infrastructure / transportation research — UTA is already a partner |
+| NCTCOG Mobility Technologies (NTCMT) | Regional | Regional matching pathway | Confirm current cycle with NCTCOG | Marable + Andrews | EV infrastructure / transportation research — strong regional pathway; confirm current terms directly with NCTCOG |
 | GLO Coastal Management Program (Cycle 32) | State (NOAA/GOMESA) | varies | **June 3, 2026** | Andrews + Bray | Coastal flood modeling and resilience planning |
 | UTA Interdisciplinary Research Program (IRP) | Internal | ~$20K | ~Nov 2026 | All four | Pilot data collection for DFW study region |
 
@@ -155,9 +155,9 @@ To keep Year 1 realistic, we begin with **two pilot projects** with two co-leads
 
 | Grant | Agency | Amount | Deadline | Status | Lead | Purpose |
 |-------|--------|--------|----------|--------|------|---------|
-| GCR | NSF | $2.4M | Feb 2027 | **Confirmed** | Andrews (PI), all co-PIs | Flagship interdisciplinary proposal — built on Year 1 pilot data |
-| S&CC | NSF | up to $1.5M | ~Sep 2026 | **Confirmed** (NSF 25-527) | Andrews + Marable | Smart community resilience, Geo-AI, EV infrastructure |
-| FEMA BRIC (sub-award) | FEMA | varies | TBD | **In legal limbo** | Andrews + Bray | Partner with City of Arlington/Tarrant County — if program resumes |
+| GCR | NSF | Phase I up to $1.2M; Phase II up to $2.4M | Feb 2027 | **Confirmed** | Andrews (PI), all co-PIs | Flagship interdisciplinary proposal — built on Year 1 pilot data |
+| S&CC | NSF | up to $1.5M | Prelim Sep 14 / Full Nov 9, 2026 | **Confirmed** (NSF 25-527) | Andrews + Marable | Smart community resilience, Geo-AI, EV infrastructure |
+| FEMA BRIC (sub-award) | FEMA | varies | TBD | **Monitor** — no active NOFO verified | Andrews + Bray | Partner with City of Arlington/Tarrant County only if FEMA revives a comparable mitigation pathway |
 
 **State/local supplements in Years 2–3:**
 
@@ -177,7 +177,7 @@ To keep Year 1 realistic, we begin with **two pilot projects** with two co-leads
 | EPA Environmental Justice | EPA | varies | Bray | If programs reopen under new administration |
 | Kresge CREWS/EJET | Kresge | varies | Marable + Bray | Water systems, energy transition — when RFPs open |
 | RWJF Health Equity | RWJF | varies | Bray + Marable | Environmental health and equity |
-| DOE VTO | DOE | varies | Marable | EV infrastructure research — when FY2027 FOA opens |
+| DOE VTO | DOE | varies | Marable | EV infrastructure research — monitor for the next VTO NOFO |
 
 **Year 3–5 target: $5–15M cumulative cluster funding; CAREER awards for junior faculty**
 
@@ -185,11 +185,11 @@ To keep Year 1 realistic, we begin with **two pilot projects** with two co-leads
 
 | Faculty | Federal Agencies | State/Local/Foundation | Estimated 5-Year Pipeline |
 |---------|-----------------|----------------------|--------------------------|
-| Andrews | NSF (DRMS, GCR, S&CC), NOAA, NEH | TWDB, GLO, TxDOT, Meadows | $2.5–5M |
-| Bray | NSF (DRMS), USGS, NEH, RWJF, Kresge | TCEQ 319(h), GLO, Meadows | $1.5–3M |
-| Shost | USDA-NIFA, NSF (CBET, CAREER) | TPWD, Meadows | $1.5–3M |
-| Marable | NSF (DRMS, CBET, CAREER), DOE, Kresge | NCTCOG NTCMT, TxDOT, TCEQ | $2–4M |
-| **Cluster total** | | | **$7.5–15M** |
+| Andrews | NSF (DRMS, GCR, S&CC), NOAA, NEH | TWDB, GLO, TxDOT, Meadows | $2–5M |
+| Bray | NSF (DRMS), USGS, NEH, RWJF, Kresge | TCEQ 319(h), GLO, Meadows | $1–3M |
+| Shost | USDA-NIFA, NSF (CBET, CAREER) | TPWD, Meadows | $1–3M |
+| Marable | NSF (DRMS, CBET, CAREER), DOE, Kresge | NCTCOG NTCMT, TxDOT, TCEQ | $1–4M |
+| **Cluster total** | | | **$5–15M** |
 
 ---
 
@@ -340,7 +340,7 @@ The cluster establishes standing partnerships with Texas community organizations
 | Submit NOAA BAA proposal (Sep 30 deadline) | Andrews + Bray | Flood/climate resilience in Texas Gulf region |
 | Submit NSF HEGS-TREES proposal (if solicitation reopens) | Andrews (PI), all co-PIs | Transdisciplinary pilot — monitor NSF for updated solicitation |
 | Submit Meadows Foundation proposal | All four | Seed funding for shared data infrastructure and community partnerships |
-| Submit NCTCOG NTCMT proposal (quarterly review) | Marable + Andrews | EV/transportation research — UTA is already a partner institution |
+| Confirm NCTCOG NTCMT cycle and pursue regional mobility proposal | Marable + Andrews | EV/transportation research — confirm current matching and submission mechanics directly with NCTCOG |
 | Submit UTA IRP application (~Nov 2026) | All four | Internal seed grant for pilot data in DFW study region |
 | Join NCTCOG RISE Coalition | All four | Regional sustainability network membership |
 | Recruit first doctoral student each | All four | 4 students admitted for Spring or Fall 2027 |

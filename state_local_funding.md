@@ -1,7 +1,7 @@
 # State and Local Funding Opportunities for the Sustainability Cluster
 
 _Texas state, regional, and DFW-area funding sources for the Day-1 collaborative presentation_
-_Compiled March 11, 2026_
+_Updated March 19, 2026_
 
 Federal grants are the backbone of the funding strategy, but state, regional, and local sources provide seed money, community partnerships, and Texas-specific credibility that strengthens every federal proposal.
 
@@ -12,7 +12,7 @@ Federal grants are the backbone of the funding strategy, but state, regional, an
 | Priority | Program | Source | Amount | Deadline | Best Fit |
 |----------|---------|--------|--------|----------|----------|
 | 1 | Meadows Foundation — Environment | Private (Dallas) | $500K–$2.75M | Rolling (year-round) | All four candidates |
-| 2 | NCTCOG Mobility Technologies (NTCMT) | Regional | Up to $1M/yr matching | Rolling (quarterly) | Marable + Andrews |
+| 2 | NCTCOG Mobility Technologies (NTCMT) | Regional | Regional matching pathway | Confirm current cycle with NCTCOG | Marable + Andrews |
 | 3 | GLO Coastal Management Program Cycle 32 | State | Varies | **June 3, 2026** | Andrews + Bray |
 | 4 | TWDB Flood Priority Research | State | ~$150K/project | Biennial (contact for next cycle) | Andrews |
 | 5 | TxDOT Research Program (RTI) | State | Varies (80% federal/20% state) | Annual (~early 2027 for FY2027) | Marable + Andrews |
@@ -50,13 +50,12 @@ _Dallas-based, one of Texas's largest private foundations_
 
 ### NCTCOG North Texas Center for Mobility Technologies (NTCMT)
 
-- **Status:** ACTIVE — rolling applications, evaluated quarterly
-- **Funding:** Up to $1M/year per project in dollar-for-dollar matching. Seed-funded with $2.5M from NCTCOG
-- **Structure:** Sponsor covers ≥50% of costs; university partner provides 25% match; NCTCOG provides up to 25% match
-- **Eligibility:** UTA is already a named partner university (alongside UTD, UNT, SMU)
+- **Status:** ACTIVE regional pathway — public materials confirm the center and university participation, but current application mechanics should be confirmed directly with NCTCOG
+- **Funding:** Public NCTCOG materials support a mobility-research partnership structure. Confirm current matching levels and cost-share terms directly with NCTCOG before citing specifics
+- **Eligibility:** UTA is already part of the regional mobility research ecosystem reflected in NCTCOG materials
 - **Focus:** Transportation/mobility technology: EVs, autonomous vehicles, fuel cells, micro-mobility, freight, multimodal transit
 
-**Cluster fit:** Directly relevant to Marable's EV infrastructure research and Andrews' spatial analysis of transportation systems. UTA is already in the partnership — this is low-hanging fruit.
+**Cluster fit:** Directly relevant to Marable's EV infrastructure research and Andrews' spatial analysis of transportation systems. This is one of the clearest regional pathways tying the cluster to North Texas mobility work.
 
 **Role map:**
 - Marable (PI): EV charging infrastructure, consumer behavior, transportation economics
@@ -213,7 +212,7 @@ State and local funding should be woven into the main funding strategy, not pres
 > "Beyond federal funding, we'll immediately pursue the **Meadows Foundation** — one of Texas's largest private foundations with a strong environment program and a track record of $500K–$2.75M grants to Texas universities for exactly this kind of work."
 
 **When discussing community partnerships:**
-> "UTA is already a named partner in **NCTCOG's North Texas Center for Mobility Technologies**, which provides up to $1M/year in matching funds for transportation and EV research. We'll also join the **NCTCOG RISE Coalition** to embed the cluster in the regional sustainability network."
+> "UTA is already positioned in the North Texas mobility ecosystem through **NCTCOG's North Texas Center for Mobility Technologies**, which gives the cluster a real regional pathway for transportation and EV research. We'll also join the **NCTCOG RISE Coalition** to embed the cluster in the regional sustainability network."
 
 **When discussing flood/resilience research:**
 > "The **Texas Water Development Board** funds university flood research directly — UTA's Water Engineering Research Center already has TWDB grants. We'll position for the next biennial cycle with a proposal linking spatial flood modeling, economic impact analysis, and community resilience."
@@ -227,7 +226,7 @@ State and local funding should be woven into the main funding strategy, not pres
 
 1. **Meadows Foundation is the top priority.** It's the closest thing to a sure bet — a major Texas funder with proven interest in university environmental research, rolling applications, and no match requirement. A well-crafted proposal could secure $500K–$1M in flexible seed funding.
 
-2. **NCTCOG NTCMT is free money on the table.** UTA is already a partner institution. Marable's EV research fits perfectly. This should be one of the first proposals the cluster submits.
+2. **NCTCOG NTCMT is a high-potential regional pathway, not a throwaway line.** UTA is already connected to that ecosystem, and Marable's EV research fits well. Confirm the current cycle and matching terms early, then decide whether it should become one of the first regional proposals.
 
 3. **State agencies build the Texas story.** Mentioning TWDB, GLO, TCEQ, and TxDOT in the presentation demonstrates that the cluster understands Texas's unique funding landscape — not just federal agencies. This signals local expertise.
 

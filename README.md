@@ -17,7 +17,7 @@ Our draft presentation plan covering:
 - A proposed framing ("Texas as a natural laboratory for sustainability science")
 - A binding layer (data, community, student training, and optional administrative core)
 - 2 pilot projects with co-leads, aligned to the four hiring pillars
-- A 3-phase funding pipeline ($7.5–15M over 5 years)
+- A 3-phase funding pipeline (roughly $5–15M over 5 years)
 - A PhD pipeline design (8 doctoral students across the cluster)
 - Pedagogy and undergraduate pathways
 - An 18-month rollout roadmap with specific deliverables
@@ -56,7 +56,7 @@ The exact interview prompt and exercise structure from the provost's office, plu
 
 | | |
 |---|---|
-| **Total funding pipeline** | $7.5–15M over 5 years |
+| **Total funding pipeline** | Roughly $5–15M over 5 years |
 | **Year 1 proposals** | 5–7 across federal, state, and foundation sources |
 | **PhD students at steady state** | 8 (2 per faculty member) |
 | **Confirmed active federal grants** | 6 programs ready for Year 1 |
@@ -68,10 +68,11 @@ The exact interview prompt and exercise structure from the provost's office, plu
 ## Important grant notes
 
 - **6 confirmed active federal programs** ready for Year 1: DRMS, AFRI, NOAA BAA, Environmental Sustainability, GCR, S&CC
-- **NSF HEGS-TREES** is our best natural fit, but the solicitation is under revision — status uncertain
-- **FEMA BRIC** is in legal limbo (terminated April 2025, court-restored December 2025, no active funding announcement)
+- **NSF HEGS-TREES** is one of our best intellectual fits, but NSF currently lists it as waiting for a new publication
+- **FEMA BRIC** should be treated as a monitor item — no active NOFO verified as of March 19, 2026
 - **Meadows Foundation** (Dallas) is the strongest non-federal source: proven track record of $500K–$2.75M grants to Texas universities for environmental research
-- All grant statuses were verified March 11, 2026 — double-check deadlines before submitting
+- **NCTCOG NTCMT** is a strong regional mobility pathway, but we should confirm current matching terms and cycle directly with NCTCOG
+- All grant statuses were rechecked March 19, 2026 — double-check deadlines before submitting
 
 ---
 
